@@ -1,0 +1,3646 @@
+[
+ {
+   "word": "de man",
+   "translation": "man"
+ },
+ {
+   "word": "de vrouw",
+   "translation": "woman"
+ },
+ {
+   "word": "ik",
+   "translation": "I"
+ },
+ {
+   "word": "zijn",
+   "translation": "to be"
+ },
+ {
+   "word": "een",
+   "translation": "a, one"
+ },
+ {
+   "word": "de jongen",
+   "translation": "boy"
+ },
+ {
+   "word": "en",
+   "translation": "and"
+ },
+ {
+   "word": "ze",
+   "translation": "she, they"
+ },
+ {
+   "word": "het kind",
+   "translation": "child"
+ },
+ {
+   "word": "zij",
+   "translation": "she, they"
+ },
+ {
+   "word": "hij",
+   "translation": "he"
+ },
+ {
+   "word": "het meisje",
+   "translation": "girl"
+ },
+ {
+   "word": "eten",
+   "translation": "to eat"
+ },
+ {
+   "word": "drinken",
+   "translation": "to drink"
+ },
+ {
+   "word": "de appel",
+   "translation": "apple"
+ },
+ {
+   "word": "de melk",
+   "translation": "milk"
+ },
+ {
+   "word": "het sap",
+   "translation": "juice"
+ },
+ {
+   "word": "het water",
+   "translation": "water"
+ },
+ {
+   "word": "het brood",
+   "translation": "bread"
+ },
+ {
+   "word": "of",
+   "translation": "or"
+ },
+ {
+   "word": "jij",
+   "translation": "you (singular informal stressed)"
+ },
+ {
+   "word": "je",
+   "translation": "you (singular informal unstressed)"
+ },
+ {
+   "word": "wij",
+   "translation": "we (stressed)"
+ },
+ {
+   "word": "de boterham",
+   "translation": "sandwich"
+ },
+ {
+   "word": "de rijst",
+   "translation": "rice"
+ },
+ {
+   "word": "we",
+   "translation": "we (unstressed)"
+ },
+ {
+   "word": "jullie",
+   "translation": "you (plural)"
+ },
+ {
+   "word": "vrouwen",
+   "translation": "women"
+ },
+ {
+   "word": "mannen",
+   "translation": "men"
+ },
+ {
+   "word": "meisjes",
+   "translation": "girls"
+ },
+ {
+   "word": "de krant",
+   "translation": "newspaper"
+ },
+ {
+   "word": "jongens",
+   "translation": "boys"
+ },
+ {
+   "word": "het menu",
+   "translation": "menu"
+ },
+ {
+   "word": "dat",
+   "translation": "that"
+ },
+ {
+   "word": "het",
+   "translation": "it"
+ },
+ {
+   "word": "hebben",
+   "translation": "to have"
+ },
+ {
+   "word": "het boek",
+   "translation": "book"
+ },
+ {
+   "word": "lezen",
+   "translation": "to read"
+ },
+ {
+   "word": "spreken",
+   "translation": "to speak"
+ },
+ {
+   "word": "kinderen",
+   "translation": "children"
+ },
+ {
+   "word": "hallo",
+   "translation": "hello"
+ },
+ {
+   "word": "bedankt",
+   "translation": "thanks"
+ },
+ {
+   "word": "dag",
+   "translation": "bye"
+ },
+ {
+   "word": "doei",
+   "translation": "bye"
+ },
+ {
+   "word": "tot ziens",
+   "translation": "goodbye, see you later"
+ },
+ {
+   "word": "hoi",
+   "translation": "hi"
+ },
+ {
+   "word": "goedendag",
+   "translation": "good day"
+ },
+ {
+   "word": "goedemorgen",
+   "translation": "good morning"
+ },
+ {
+   "word": "goedenavond",
+   "translation": "good evening"
+ },
+ {
+   "word": "welterusten",
+   "translation": "good night (rest well)"
+ },
+ {
+   "word": "ja",
+   "translation": "yes"
+ },
+ {
+   "word": "danken",
+   "translation": "to thank"
+ },
+ {
+   "word": "nee",
+   "translation": "no"
+ },
+ {
+   "word": "alsjeblieft",
+   "translation": "please (informal)"
+ },
+ {
+   "word": "alstublieft",
+   "translation": "please (formal)"
+ },
+ {
+   "word": "dank je wel",
+   "translation": "thank you (informal)"
+ },
+ {
+   "word": "wel",
+   "translation": "well, really"
+ },
+ {
+   "word": "misschien",
+   "translation": "maybe, possibly, perhaps"
+ },
+ {
+   "word": "niet",
+   "translation": "not"
+ },
+ {
+   "word": "sorry",
+   "translation": "sorry"
+ },
+ {
+   "word": "oké",
+   "translation": "okay"
+ },
+ {
+   "word": "pardon",
+   "translation": "excuse me"
+ },
+ {
+   "word": "het spijt me",
+   "translation": "I'm sorry"
+ },
+ {
+   "word": "goed",
+   "translation": "good, fine, well"
+ },
+ {
+   "word": "hoe",
+   "translation": "how"
+ },
+ {
+   "word": "gaan",
+   "translation": "gaan"
+ },
+ {
+   "word": "hoe gaat het?",
+   "translation": "how are you?"
+ },
+ {
+   "word": "geen",
+   "translation": "no/none/not/nobody (negation)"
+ },
+ {
+   "word": "Engels",
+   "translation": "English"
+ },
+ {
+   "word": "Nederlands",
+   "translation": "Dutch"
+ },
+ {
+   "word": "de vis",
+   "translation": "fish (singular)"
+ },
+ {
+   "word": "de sinaasappel",
+   "translation": "orange (fruit)"
+ },
+ {
+   "word": "de wijn",
+   "translation": "wine"
+ },
+ {
+   "word": "de koffie",
+   "translation": "coffee"
+ },
+ {
+   "word": "het ei",
+   "translation": "egg"
+ },
+ {
+   "word": "de kip",
+   "translation": "chicken"
+ },
+ {
+   "word": "het bord",
+   "translation": "board, plate"
+ },
+ {
+   "word": "de suiker",
+   "translation": "sugar"
+ },
+ {
+   "word": "het middageten",
+   "translation": "lunch"
+ },
+ {
+   "word": "het ontbijt",
+   "translation": "breakfast"
+ },
+ {
+   "word": "de kaas",
+   "translation": "cheese"
+ },
+ {
+   "word": "het fruit",
+   "translation": "fruit"
+ },
+ {
+   "word": "de pasta",
+   "translation": "pasta"
+ },
+ {
+   "word": "de lunch",
+   "translation": "lunch"
+ },
+ {
+   "word": "het bier",
+   "translation": "beer (uncountable)"
+ },
+ {
+   "word": "het rundvlees",
+   "translation": "beef"
+ },
+ {
+   "word": "de soep",
+   "translation": "soup"
+ },
+ {
+   "word": "de tomaat",
+   "translation": "tomato"
+ },
+ {
+   "word": "de aardbei",
+   "translation": "strawberry"
+ },
+ {
+   "word": "de citroen",
+   "translation": "lemon"
+ },
+ {
+   "word": "de limoen",
+   "translation": "lime"
+ },
+ {
+   "word": "het avondeten",
+   "translation": "dinner, supper"
+ },
+ {
+   "word": "het vlees",
+   "translation": "meat"
+ },
+ {
+   "word": "de maaltijd",
+   "translation": "meal"
+ },
+ {
+   "word": "de thee",
+   "translation": "tea"
+ },
+ {
+   "word": "het varkensvlees",
+   "translation": "pork"
+ },
+ {
+   "word": "de vegetariër",
+   "translation": "vegetarian"
+ },
+ {
+   "word": "het eten",
+   "translation": "food, eating"
+ },
+ {
+   "word": "de groente",
+   "translation": "vegetable"
+ },
+ {
+   "word": "de peper",
+   "translation": "pepper"
+ },
+ {
+   "word": "de dorst",
+   "translation": "thirst"
+ },
+ {
+   "word": "dorst hebben",
+   "translation": "to be thirsty"
+ },
+ {
+   "word": "de olie",
+   "translation": "oil"
+ },
+ {
+   "word": "de honger",
+   "translation": "hunger"
+ },
+ {
+   "word": "honger hebben",
+   "translation": "to be hungry"
+ },
+ {
+   "word": "de banaan",
+   "translation": "banana"
+ },
+ {
+   "word": "het zout",
+   "translation": "salt"
+ },
+ {
+   "word": "lekker",
+   "translation": "tasty, nice, delicious"
+ },
+ {
+   "word": "de kat",
+   "translation": "cat"
+ },
+ {
+   "word": "het dier",
+   "translation": "animal"
+ },
+ {
+   "word": "de hond",
+   "translation": "dog"
+ },
+ {
+   "word": "het paard",
+   "translation": "horse"
+ },
+ {
+   "word": "de vogel",
+   "translation": "bird"
+ },
+ {
+   "word": "de beer",
+   "translation": "bear"
+ },
+ {
+   "word": "de muis",
+   "translation": "mouse"
+ },
+ {
+   "word": "de krab",
+   "translation": "crab"
+ },
+ {
+   "word": "de spin",
+   "translation": "spider"
+ },
+ {
+   "word": "de olifant",
+   "translation": "elephant"
+ },
+ {
+   "word": "de eend",
+   "translation": "duck"
+ },
+ {
+   "word": "de schildpad",
+   "translation": "turtle"
+ },
+ {
+   "word": "het konijn",
+   "translation": "rabbit"
+ },
+ {
+   "word": "de koe",
+   "translation": "cow"
+ },
+ {
+   "word": "de neushoorn",
+   "translation": "rhinoceros"
+ },
+ {
+   "word": "de hoorn",
+   "translation": "horn"
+ },
+ {
+   "word": "het schaap",
+   "translation": "sheep (singular)"
+ },
+ {
+   "word": "het hert",
+   "translation": "deer"
+ },
+ {
+   "word": "de staart",
+   "translation": "tail"
+ },
+ {
+   "word": "de gans",
+   "translation": "goose"
+ },
+ {
+   "word": "de uil",
+   "translation": "owl"
+ },
+ {
+   "word": "eenden",
+   "translation": "ducks"
+ },
+ {
+   "word": "schildpadden",
+   "translation": "turtles"
+ },
+ {
+   "word": "honden",
+   "translation": "dogs"
+ },
+ {
+   "word": "kranten",
+   "translation": "newspapers"
+ },
+ {
+   "word": "boeken",
+   "translation": "books"
+ },
+ {
+   "word": "paarden",
+   "translation": "horses"
+ },
+ {
+   "word": "boterhammen",
+   "translation": "sandwiches"
+ },
+ {
+   "word": "borden",
+   "translation": "plates, boards"
+ },
+ {
+   "word": "appels",
+   "translation": "apples"
+ },
+ {
+   "word": "katten",
+   "translation": "cats"
+ },
+ {
+   "word": "vogels",
+   "translation": "birds"
+ },
+ {
+   "word": "olifanten",
+   "translation": "elephants"
+ },
+ {
+   "word": "menu's",
+   "translation": "menus"
+ },
+ {
+   "word": "dieren",
+   "translation": "animals"
+ },
+ {
+   "word": "muizen",
+   "translation": "mice"
+ },
+ {
+   "word": "koeien",
+   "translation": "cows"
+ },
+ {
+   "word": "aardbeien",
+   "translation": "strawberries"
+ },
+ {
+   "word": "schapen",
+   "translation": "sheep (plural)"
+ },
+ {
+   "word": "je, jouw",
+   "translation": "your (singular informal)"
+ },
+ {
+   "word": "mijn",
+   "translation": "my"
+ },
+ {
+   "word": "uw",
+   "translation": "your (singular formal)"
+ },
+ {
+   "word": "zijn",
+   "translation": "his, its (adjective)"
+ },
+ {
+   "word": "haar",
+   "translation": "her"
+ },
+ {
+   "word": "ons",
+   "translation": "our (het- nouns)"
+ },
+ {
+   "word": "onze",
+   "translation": "our (de- nouns)"
+ },
+ {
+   "word": "jullie, je",
+   "translation": "your (plural)"
+ },
+ {
+   "word": "hun",
+   "translation": "their"
+ },
+ {
+   "word": "van mij",
+   "translation": "mine"
+ },
+ {
+   "word": "van jou",
+   "translation": "yours (singular informal)"
+ },
+ {
+   "word": "van u",
+   "translation": "yours (singular formal)"
+ },
+ {
+   "word": "van hem",
+   "translation": "his, its (pronoun)"
+ },
+ {
+   "word": "van ons",
+   "translation": "ours"
+ },
+ {
+   "word": "van jullie",
+   "translation": "yours (plural)"
+ },
+ {
+   "word": "van hen",
+   "translation": "theirs"
+ },
+ {
+   "word": "groot",
+   "translation": "big, large, great"
+ },
+ {
+   "word": "klein",
+   "translation": "small"
+ },
+ {
+   "word": "lang",
+   "translation": "long, tall"
+ },
+ {
+   "word": "snel",
+   "translation": "fast"
+ },
+ {
+   "word": "langzaam",
+   "translation": "slow"
+ },
+ {
+   "word": "kort",
+   "translation": "short"
+ },
+ {
+   "word": "zacht",
+   "translation": "soft"
+ },
+ {
+   "word": "zwaar",
+   "translation": "hard, heavy"
+ },
+ {
+   "word": "licht",
+   "translation": "light"
+ },
+ {
+   "word": "sterk",
+   "translation": "strong"
+ },
+ {
+   "word": "zwak",
+   "translation": "weak"
+ },
+ {
+   "word": "jong",
+   "translation": "young"
+ },
+ {
+   "word": "oud",
+   "translation": "old"
+ },
+ {
+   "word": "zoet",
+   "translation": "sweet"
+ },
+ {
+   "word": "zuur",
+   "translation": "sour"
+ },
+ {
+   "word": "slecht",
+   "translation": "bad"
+ },
+ {
+   "word": "belangrijk",
+   "translation": "important"
+ },
+ {
+   "word": "moeilijk",
+   "translation": "difficult"
+ },
+ {
+   "word": "goedkoop",
+   "translation": "cheap"
+ },
+ {
+   "word": "interessant",
+   "translation": "interesting"
+ },
+ {
+   "word": "gratis",
+   "translation": "free of charge"
+ },
+ {
+   "word": "vol",
+   "translation": "full"
+ },
+ {
+   "word": "leeg",
+   "translation": "empty"
+ },
+ {
+   "word": "duur",
+   "translation": "expensive"
+ },
+ {
+   "word": "vers",
+   "translation": "fresh"
+ },
+ {
+   "word": "warm",
+   "translation": "warm, hot"
+ },
+ {
+   "word": "het warm hebben",
+   "translation": "to feel warm/hot"
+ },
+ {
+   "word": "koud",
+   "translation": "cold"
+ },
+ {
+   "word": "het koud hebben",
+   "translation": "to feel cold"
+ },
+ {
+   "word": "rustig",
+   "translation": "quiet"
+ },
+ {
+   "word": "nat",
+   "translation": "wet"
+ },
+ {
+   "word": "droog",
+   "translation": "dry"
+ },
+ {
+   "word": "schoon",
+   "translation": "clean"
+ },
+ {
+   "word": "net zoals",
+   "translation": "just like"
+ },
+ {
+   "word": "dragen",
+   "translation": "to wear"
+ },
+ {
+   "word": "de schoen",
+   "translation": "shoe"
+ },
+ {
+   "word": "de jurk",
+   "translation": "dress"
+ },
+ {
+   "word": "de jas",
+   "translation": "coat"
+ },
+ {
+   "word": "de rok",
+   "translation": "skirt"
+ },
+ {
+   "word": "het rokje",
+   "translation": "(small) skirt"
+ },
+ {
+   "word": "kleren",
+   "translation": "clothes"
+ },
+ {
+   "word": "de klomp",
+   "translation": "clog (footwear)"
+ },
+ {
+   "word": "de broek",
+   "translation": "trousers (singular)"
+ },
+ {
+   "word": "de hoed",
+   "translation": "hat"
+ },
+ {
+   "word": "het pak",
+   "translation": "suit"
+ },
+ {
+   "word": "u",
+   "translation": "you (formal)"
+ },
+ {
+   "word": "de meneer",
+   "translation": "mister"
+ },
+ {
+   "word": "de mevrouw",
+   "translation": "madam"
+ },
+ {
+   "word": "lopen",
+   "translation": "to walk"
+ },
+ {
+   "word": "schrijven",
+   "translation": "to write"
+ },
+ {
+   "word": "zwemmen",
+   "translation": "to swim"
+ },
+ {
+   "word": "koken",
+   "translation": "to cook"
+ },
+ {
+   "word": "slapen",
+   "translation": "to sleep"
+ },
+ {
+   "word": "houden van (iets)",
+   "translation": "to like / to love (something)"
+ },
+ {
+   "word": "spelen",
+   "translation": "to play"
+ },
+ {
+   "word": "willen",
+   "translation": "to want"
+ },
+ {
+   "word": "graag",
+   "translation": "gladly"
+ },
+ {
+   "word": "horen",
+   "translation": "to hear"
+ },
+ {
+   "word": "zien",
+   "translation": "to see"
+ },
+ {
+   "word": "betalen",
+   "translation": "to pay"
+ },
+ {
+   "word": "rennen",
+   "translation": "to run"
+ },
+ {
+   "word": "kennen",
+   "translation": "to know (a person)"
+ },
+ {
+   "word": "steunen",
+   "translation": "to support"
+ },
+ {
+   "word": "heten",
+   "translation": "to be called"
+ },
+ {
+   "word": "pijpenstelen regenen",
+   "translation": "to rain cats and dogs"
+ },
+ {
+   "word": "aanraken",
+   "translation": "to touch"
+ },
+ {
+   "word": "luisteren",
+   "translation": "to listen"
+ },
+ {
+   "word": "nodig hebben",
+   "translation": "to be in need of"
+ },
+ {
+   "word": "gebruiken",
+   "translation": "to use"
+ },
+ {
+   "word": "nemen",
+   "translation": "to take"
+ },
+ {
+   "word": "ontwerpen",
+   "translation": "to design"
+ },
+ {
+   "word": "gaan",
+   "translation": "to go"
+ },
+ {
+   "word": "fietsen",
+   "translation": "to bike"
+ },
+ {
+   "word": "zeggen",
+   "translation": "to say"
+ },
+ {
+   "word": "werken",
+   "translation": "to work"
+ },
+ {
+   "word": "tonen",
+   "translation": "to show"
+ },
+ {
+   "word": "staan",
+   "translation": "to stand / to be placed or located"
+ },
+ {
+   "word": "genoeg",
+   "translation": "enough"
+ },
+ {
+   "word": "iedereen",
+   "translation": "everyone"
+ },
+ {
+   "word": "iemand",
+   "translation": "someone"
+ },
+ {
+   "word": "iets",
+   "translation": "something, somewhat"
+ },
+ {
+   "word": "men",
+   "translation": "one (3rd person pronoun)"
+ },
+ {
+   "word": "niemand",
+   "translation": "nobody, no one"
+ },
+ {
+   "word": "niets",
+   "translation": "nothing"
+ },
+ {
+   "word": "wat",
+   "translation": "what"
+ },
+ {
+   "word": "veel",
+   "translation": "a lot, many"
+ },
+ {
+   "word": "weinig",
+   "translation": "little, few"
+ },
+ {
+   "word": "alle",
+   "translation": "all"
+ },
+ {
+   "word": "sommige",
+   "translation": "some"
+ },
+ {
+   "word": "alles",
+   "translation": "everything"
+ },
+ {
+   "word": "verscheidene",
+   "translation": "several"
+ },
+ {
+   "word": "verschillende",
+   "translation": "different"
+ },
+ {
+   "word": "een paar",
+   "translation": "a couple"
+ },
+ {
+   "word": "elke",
+   "translation": "each, every"
+ },
+ {
+   "word": "enig",
+   "translation": "some, any"
+ },
+ {
+   "word": "enkele",
+   "translation": "a few, some"
+ },
+ {
+   "word": "ieder",
+   "translation": "each, any"
+ },
+ {
+   "word": "haar",
+   "translation": "her"
+ },
+ {
+   "word": "hem",
+   "translation": "him"
+ },
+ {
+   "word": "mij",
+   "translation": "me (stressed)"
+ },
+ {
+   "word": "me",
+   "translation": "me (unstressed)"
+ },
+ {
+   "word": "jou",
+   "translation": "you (object, stressed)"
+ },
+ {
+   "word": "ons",
+   "translation": "us"
+ },
+ {
+   "word": "ze",
+   "translation": "them (unstressed)"
+ },
+ {
+   "word": "hun",
+   "translation": "their"
+ },
+ {
+   "word": "hun / hen",
+   "translation": "them (stressed)"
+ },
+ {
+   "word": "oranje",
+   "translation": "orange (color)"
+ },
+ {
+   "word": "groen",
+   "translation": "green"
+ },
+ {
+   "word": "grijs",
+   "translation": "gray"
+ },
+ {
+   "word": "roze",
+   "translation": "pink"
+ },
+ {
+   "word": "wit",
+   "translation": "white"
+ },
+ {
+   "word": "bruin",
+   "translation": "brown"
+ },
+ {
+   "word": "blauw",
+   "translation": "blue"
+ },
+ {
+   "word": "geel",
+   "translation": "yellow"
+ },
+ {
+   "word": "zwart",
+   "translation": "black"
+ },
+ {
+   "word": "de kleur",
+   "translation": "color"
+ },
+ {
+   "word": "rood",
+   "translation": "red"
+ },
+ {
+   "word": "kleurrijk",
+   "translation": "colorful"
+ },
+ {
+   "word": "paars",
+   "translation": "purple"
+ },
+ {
+   "word": "de vlag",
+   "translation": "flag"
+ },
+ {
+   "word": "in",
+   "translation": "in"
+ },
+ {
+   "word": "bij",
+   "translation": "at / by"
+ },
+ {
+   "word": "tussen",
+   "translation": "between"
+ },
+ {
+   "word": "aan",
+   "translation": "on, to, at"
+ },
+ {
+   "word": "Nederland",
+   "translation": "the Netherlands"
+ },
+ {
+   "word": "zitten",
+   "translation": "to sit"
+ },
+ {
+   "word": "wonen",
+   "translation": "to live (at a place)"
+ },
+ {
+   "word": "België",
+   "translation": "Belgium"
+ },
+ {
+   "word": "voor",
+   "translation": "for, before"
+ },
+ {
+   "word": "op",
+   "translation": "up, onto, on, upon"
+ },
+ {
+   "word": "komen",
+   "translation": "to come"
+ },
+ {
+   "word": "uit",
+   "translation": "from, out"
+ },
+ {
+   "word": "vlakbij",
+   "translation": "near, close, nigh"
+ },
+ {
+   "word": "naar",
+   "translation": "to"
+ },
+ {
+   "word": "met",
+   "translation": "with"
+ },
+ {
+   "word": "zonder",
+   "translation": "without"
+ },
+ {
+   "word": "van",
+   "translation": "from"
+ },
+ {
+   "word": "toe",
+   "translation": "towards"
+ },
+ {
+   "word": "krijgen",
+   "translation": "to get, to receive"
+ },
+ {
+   "word": "na",
+   "translation": "after"
+ },
+ {
+   "word": "het station",
+   "translation": "station"
+ },
+ {
+   "word": "liggen",
+   "translation": "to lie (down), to be (located)"
+ },
+ {
+   "word": "naast",
+   "translation": "next to, beside"
+ },
+ {
+   "word": "tijdens",
+   "translation": "during"
+ },
+ {
+   "word": "door",
+   "translation": "through"
+ },
+ {
+   "word": "vanwege",
+   "translation": "because of"
+ },
+ {
+   "word": "dichtbij",
+   "translation": "near, close"
+ },
+ {
+   "word": "achter",
+   "translation": "behind"
+ },
+ {
+   "word": "tegen",
+   "translation": "against"
+ },
+ {
+   "word": "terwijl",
+   "translation": "while, during"
+ },
+ {
+   "word": "over",
+   "translation": "about, over"
+ },
+ {
+   "word": "onder",
+   "translation": "under"
+ },
+ {
+   "word": "mee",
+   "translation": "with (+verb)"
+ },
+ {
+   "word": "behalve",
+   "translation": "except"
+ },
+ {
+   "word": "wat",
+   "translation": "what"
+ },
+ {
+   "word": "welk",
+   "translation": "which"
+ },
+ {
+   "word": "waarom",
+   "translation": "why"
+ },
+ {
+   "word": "waar",
+   "translation": "where"
+ },
+ {
+   "word": "hoeveel",
+   "translation": "how much / how many"
+ },
+ {
+   "word": "hoe",
+   "translation": "how"
+ },
+ {
+   "word": "het antwoord",
+   "translation": "answer"
+ },
+ {
+   "word": "de vraag",
+   "translation": "question"
+ },
+ {
+   "word": "wie",
+   "translation": "who"
+ },
+ {
+   "word": "wiens",
+   "translation": "whose"
+ },
+ {
+   "word": "wanneer",
+   "translation": "when"
+ },
+ {
+   "word": "vragen",
+   "translation": "to ask"
+ },
+ {
+   "word": "doen",
+   "translation": "to do"
+ },
+ {
+   "word": "één",
+   "translation": "one"
+ },
+ {
+   "word": "twee",
+   "translation": "two"
+ },
+ {
+   "word": "drie",
+   "translation": "three"
+ },
+ {
+   "word": "vier",
+   "translation": "four"
+ },
+ {
+   "word": "vijf",
+   "translation": "five"
+ },
+ {
+   "word": "zes",
+   "translation": "six"
+ },
+ {
+   "word": "zeven",
+   "translation": "seven"
+ },
+ {
+   "word": "acht",
+   "translation": "eight"
+ },
+ {
+   "word": "negen",
+   "translation": "nine"
+ },
+ {
+   "word": "tien",
+   "translation": "ten"
+ },
+ {
+   "word": "elf",
+   "translation": "eleven"
+ },
+ {
+   "word": "twaalf",
+   "translation": "twelve"
+ },
+ {
+   "word": "dertien",
+   "translation": "thirteen"
+ },
+ {
+   "word": "veertien",
+   "translation": "fourteen"
+ },
+ {
+   "word": "vijftien",
+   "translation": "fifteen"
+ },
+ {
+   "word": "zestien",
+   "translation": "sixteen"
+ },
+ {
+   "word": "zeventien",
+   "translation": "seventeen"
+ },
+ {
+   "word": "achttien",
+   "translation": "eighteen"
+ },
+ {
+   "word": "negentien",
+   "translation": "nineteen"
+ },
+ {
+   "word": "twintig",
+   "translation": "twenty"
+ },
+ {
+   "word": "eenentwintig",
+   "translation": "twenty-one"
+ },
+ {
+   "word": "tweeëntwintig",
+   "translation": "twenty-two"
+ },
+ {
+   "word": "zesentwintig",
+   "translation": "twenty-six"
+ },
+ {
+   "word": "zevenentwintig",
+   "translation": "twenty-seven"
+ },
+ {
+   "word": "dertig",
+   "translation": "thirty"
+ },
+ {
+   "word": "veertig",
+   "translation": "forty"
+ },
+ {
+   "word": "vijftig",
+   "translation": "fifty"
+ },
+ {
+   "word": "zestig",
+   "translation": "sixty"
+ },
+ {
+   "word": "zeventig",
+   "translation": "seventy"
+ },
+ {
+   "word": "tachtig",
+   "translation": "eighty"
+ },
+ {
+   "word": "negentig",
+   "translation": "ninety"
+ },
+ {
+   "word": "honderd",
+   "translation": "hundred"
+ },
+ {
+   "word": "duizend",
+   "translation": "thousand"
+ },
+ {
+   "word": "miljoen",
+   "translation": "million"
+ },
+ {
+   "word": "eerst",
+   "translation": "first"
+ },
+ {
+   "word": "derde",
+   "translation": "third"
+ },
+ {
+   "word": "vierde",
+   "translation": "fourth"
+ },
+ {
+   "word": "laatst",
+   "translation": "last"
+ },
+ {
+   "word": "meer",
+   "translation": "more"
+ },
+ {
+   "word": "dan",
+   "translation": "then"
+ },
+ {
+   "word": "minder",
+   "translation": "less"
+ },
+ {
+   "word": "zoveel",
+   "translation": "so much"
+ },
+ {
+   "word": "te",
+   "translation": "too (as in \"too much\")"
+ },
+ {
+   "word": "het nummer",
+   "translation": "number"
+ },
+ {
+   "word": "de hoeveelheid",
+   "translation": "amount"
+ },
+ {
+   "word": "de som",
+   "translation": "sum"
+ },
+ {
+   "word": "gemiddeld",
+   "translation": "average"
+ },
+ {
+   "word": "totaal",
+   "translation": "total (adj)"
+ },
+ {
+   "word": "de meerderheid",
+   "translation": "majority"
+ },
+ {
+   "word": "de meter",
+   "translation": "meter"
+ },
+ {
+   "word": "de helft",
+   "translation": "half"
+ },
+ {
+   "word": "het gemiddelde",
+   "translation": "average"
+ },
+ {
+   "word": "het totaal",
+   "translation": "total (noun)"
+ },
+ {
+   "word": "of",
+   "translation": "or"
+ },
+ {
+   "word": "maar",
+   "translation": "but"
+ },
+ {
+   "word": "dan",
+   "translation": "then"
+ },
+ {
+   "word": "want",
+   "translation": "because"
+ },
+ {
+   "word": "zowel...als",
+   "translation": "both...and"
+ },
+ {
+   "word": "noch",
+   "translation": "adv. nevertheless, yet"
+ },
+ {
+   "word": "ook",
+   "translation": "also, too, as well"
+ },
+ {
+   "word": "dus",
+   "translation": "so, therefore, thus"
+ },
+ {
+   "word": "alleen",
+   "translation": "alone"
+ },
+ {
+   "word": "alhoewel",
+   "translation": "although, though"
+ },
+ {
+   "word": "aangezien",
+   "translation": "since, because, considering"
+ },
+ {
+   "word": "dat",
+   "translation": "that"
+ },
+ {
+   "word": "wanneer",
+   "translation": "when"
+ },
+ {
+   "word": "zodat",
+   "translation": "so that"
+ },
+ {
+   "word": "omdat",
+   "translation": "because"
+ },
+ {
+   "word": "doordat",
+   "translation": "because of that, due to that"
+ },
+ {
+   "word": "totdat",
+   "translation": "till, until, as far as"
+ },
+ {
+   "word": "zodra",
+   "translation": "as soon as, as ever, once"
+ },
+ {
+   "word": "terwijl",
+   "translation": "while, during"
+ },
+ {
+   "word": "indien",
+   "translation": "if"
+ },
+ {
+   "word": "mits",
+   "translation": "provided that, as long as"
+ },
+ {
+   "word": "tenzij",
+   "translation": "unless"
+ },
+ {
+   "word": "voordat",
+   "translation": "before, prior to"
+ },
+ {
+   "word": "vanavond",
+   "translation": "this evening"
+ },
+ {
+   "word": "de tijd",
+   "translation": "time"
+ },
+ {
+   "word": "de dag",
+   "translation": "day"
+ },
+ {
+   "word": "de ochtend",
+   "translation": "morning"
+ },
+ {
+   "word": "de avond",
+   "translation": "evening"
+ },
+ {
+   "word": "de nacht",
+   "translation": "night"
+ },
+ {
+   "word": "de morgen",
+   "translation": "morning; tomorrow"
+ },
+ {
+   "word": "de middag",
+   "translation": "afternoon"
+ },
+ {
+   "word": "vandaag",
+   "translation": "today"
+ },
+ {
+   "word": "morgenavond",
+   "translation": "tomorrow evening"
+ },
+ {
+   "word": "dinsdag",
+   "translation": "Tuesday"
+ },
+ {
+   "word": "woensdag",
+   "translation": "Wednesday"
+ },
+ {
+   "word": "donderdag",
+   "translation": "Thursday"
+ },
+ {
+   "word": "vrijdag",
+   "translation": "Friday"
+ },
+ {
+   "word": "zaterdag",
+   "translation": "Saturday"
+ },
+ {
+   "word": "zondag",
+   "translation": "Sunday"
+ },
+ {
+   "word": "maandag",
+   "translation": "Monday"
+ },
+ {
+   "word": "het jaar",
+   "translation": "year"
+ },
+ {
+   "word": "de week",
+   "translation": "week"
+ },
+ {
+   "word": "duren",
+   "translation": "to last (duration)"
+ },
+ {
+   "word": "hoelang",
+   "translation": "how long"
+ },
+ {
+   "word": "het moment",
+   "translation": "moment"
+ },
+ {
+   "word": "de leeftijd",
+   "translation": "age"
+ },
+ {
+   "word": "'s",
+   "translation": "in the, on (in reference to time)"
+ },
+ {
+   "word": "het uur",
+   "translation": "hour, o'clock"
+ },
+ {
+   "word": "de maand",
+   "translation": "month"
+ },
+ {
+   "word": "januari",
+   "translation": "January"
+ },
+ {
+   "word": "februari",
+   "translation": "February"
+ },
+ {
+   "word": "maart",
+   "translation": "March"
+ },
+ {
+   "word": "april",
+   "translation": "April"
+ },
+ {
+   "word": "mei",
+   "translation": "May"
+ },
+ {
+   "word": "juni",
+   "translation": "June"
+ },
+ {
+   "word": "juli",
+   "translation": "July"
+ },
+ {
+   "word": "augustus",
+   "translation": "August"
+ },
+ {
+   "word": "september",
+   "translation": "September"
+ },
+ {
+   "word": "oktober",
+   "translation": "October"
+ },
+ {
+   "word": "november",
+   "translation": "November"
+ },
+ {
+   "word": "december",
+   "translation": "December"
+ },
+ {
+   "word": "de kalender",
+   "translation": "calendar"
+ },
+ {
+   "word": "de datum",
+   "translation": "date (day of a year)"
+ },
+ {
+   "word": "de verjaardag",
+   "translation": "birthday"
+ },
+ {
+   "word": "de periode",
+   "translation": "period"
+ },
+ {
+   "word": "de eeuw",
+   "translation": "century"
+ },
+ {
+   "word": "de lente",
+   "translation": "spring (season)"
+ },
+ {
+   "word": "de zomer",
+   "translation": "summer"
+ },
+ {
+   "word": "de herfst",
+   "translation": "autumn"
+ },
+ {
+   "word": "de winter",
+   "translation": "winter"
+ },
+ {
+   "word": "het seizoen",
+   "translation": "season"
+ },
+ {
+   "word": "om",
+   "translation": "at, around"
+ },
+ {
+   "word": "laat",
+   "translation": "late"
+ },
+ {
+   "word": "half",
+   "translation": "half"
+ },
+ {
+   "word": "het kwart",
+   "translation": "quarter"
+ },
+ {
+   "word": "de minuut",
+   "translation": "minute"
+ },
+ {
+   "word": "de seconde",
+   "translation": "second (of time)"
+ },
+ {
+   "word": "de keer",
+   "translation": "occasion, time (as in \"How many times\")"
+ },
+ {
+   "word": "per",
+   "translation": "per, a"
+ },
+ {
+   "word": "het beetje",
+   "translation": "bit, little bit"
+ },
+ {
+   "word": "het decennium",
+   "translation": "the decade"
+ },
+ {
+   "word": "tot",
+   "translation": "till, until, to"
+ },
+ {
+   "word": "het hotel",
+   "translation": "hotel"
+ },
+ {
+   "word": "het restaurant",
+   "translation": "restaurant"
+ },
+ {
+   "word": "de badkamer",
+   "translation": "bathroom"
+ },
+ {
+   "word": "de keuken",
+   "translation": "kitchen"
+ },
+ {
+   "word": "het huis",
+   "translation": "house"
+ },
+ {
+   "word": "de tuin",
+   "translation": "garden, yard"
+ },
+ {
+   "word": "het strand",
+   "translation": "beach"
+ },
+ {
+   "word": "het park",
+   "translation": "park"
+ },
+ {
+   "word": "de stad",
+   "translation": "city, town"
+ },
+ {
+   "word": "de kerk",
+   "translation": "church"
+ },
+ {
+   "word": "de plek",
+   "translation": "place, location, spot"
+ },
+ {
+   "word": "de straat",
+   "translation": "street"
+ },
+ {
+   "word": "leiden",
+   "translation": "to lead"
+ },
+ {
+   "word": "het vliegveld",
+   "translation": "airport"
+ },
+ {
+   "word": "het land",
+   "translation": "land, country"
+ },
+ {
+   "word": "het gebied",
+   "translation": "area, region"
+ },
+ {
+   "word": "het kantoor",
+   "translation": "office"
+ },
+ {
+   "word": "langs",
+   "translation": "along"
+ },
+ {
+   "word": "de locatie",
+   "translation": "location, site"
+ },
+ {
+   "word": "thuis",
+   "translation": "at home"
+ },
+ {
+   "word": "het centrum",
+   "translation": "centre"
+ },
+ {
+   "word": "binnen",
+   "translation": "inside"
+ },
+ {
+   "word": "de kamer",
+   "translation": "room"
+ },
+ {
+   "word": "de markt",
+   "translation": "market"
+ },
+ {
+   "word": "het gebouw",
+   "translation": "building"
+ },
+ {
+   "word": "het adres",
+   "translation": "address"
+ },
+ {
+   "word": "de afdeling",
+   "translation": "department, section"
+ },
+ {
+   "word": "het landgoed",
+   "translation": "estate, property"
+ },
+ {
+   "word": "het kasteel",
+   "translation": "castle"
+ },
+ {
+   "word": "het district",
+   "translation": "district"
+ },
+ {
+   "word": "de bank",
+   "translation": "bank"
+ },
+ {
+   "word": "de regio",
+   "translation": "region"
+ },
+ {
+   "word": "de windmolen",
+   "translation": "windmill"
+ },
+ {
+   "word": "de voorkant",
+   "translation": "front"
+ },
+ {
+   "word": "het eiland",
+   "translation": "island"
+ },
+ {
+   "word": "de bar",
+   "translation": "bar"
+ },
+ {
+   "word": "de vallei",
+   "translation": "valley"
+ },
+ {
+   "word": "de binnenkant",
+   "translation": "inside"
+ },
+ {
+   "word": "het kanaal",
+   "translation": "channel, canal"
+ },
+ {
+   "word": "de kust",
+   "translation": "coast"
+ },
+ {
+   "word": "de zone",
+   "translation": "zone"
+ },
+ {
+   "word": "het museum",
+   "translation": "museum"
+ },
+ {
+   "word": "de grond",
+   "translation": "ground, floor, soil"
+ },
+ {
+   "word": "de buurt",
+   "translation": "neighborhood"
+ },
+ {
+   "word": "de route",
+   "translation": "route"
+ },
+ {
+   "word": "de bioscoop",
+   "translation": "cinema"
+ },
+ {
+   "word": "de hoek",
+   "translation": "corner, angle, hook"
+ },
+ {
+   "word": "de toren",
+   "translation": "tower"
+ },
+ {
+   "word": "de grens",
+   "translation": "border, frontier"
+ },
+ {
+   "word": "de laan",
+   "translation": "avenue"
+ },
+ {
+   "word": "de haven",
+   "translation": "port"
+ },
+ {
+   "word": "de plaats",
+   "translation": "place, town"
+ },
+ {
+   "word": "de gemeenschap",
+   "translation": "community"
+ },
+ {
+   "word": "de rechterkant",
+   "translation": "right side, right"
+ },
+ {
+   "word": "de hoofdstad",
+   "translation": "capital, capital city"
+ },
+ {
+   "word": "het paleis",
+   "translation": "palace"
+ },
+ {
+   "word": "de boerderij",
+   "translation": "farm"
+ },
+ {
+   "word": "bovenaan",
+   "translation": "on top"
+ },
+ {
+   "word": "het plein",
+   "translation": "(town) square"
+ },
+ {
+   "word": "de gevangenis",
+   "translation": "prison"
+ },
+ {
+   "word": "de dierentuin",
+   "translation": "zoo"
+ },
+ {
+   "word": "de brug",
+   "translation": "bridge"
+ },
+ {
+   "word": "boven",
+   "translation": "above"
+ },
+ {
+   "word": "hier",
+   "translation": "here"
+ },
+ {
+   "word": "daar",
+   "translation": "(over) there"
+ },
+ {
+   "word": "er",
+   "translation": "there"
+ },
+ {
+   "word": "eruit",
+   "translation": "out (of there)"
+ },
+ {
+   "word": "erop",
+   "translation": "on it"
+ },
+ {
+   "word": "erin",
+   "translation": "in it, in there"
+ },
+ {
+   "word": "eronder",
+   "translation": "underneath it"
+ },
+ {
+   "word": "ernaartoe",
+   "translation": "to it, towards it, there"
+ },
+ {
+   "word": "ertussen",
+   "translation": "in between, between it, among it"
+ },
+ {
+   "word": "ernaast",
+   "translation": "next to it, beside it"
+ },
+ {
+   "word": "ermee",
+   "translation": "with it"
+ },
+ {
+   "word": "naartoe",
+   "translation": "to, towards"
+ },
+ {
+   "word": "hierna",
+   "translation": "after this"
+ },
+ {
+   "word": "hiertussen",
+   "translation": "in here, between these"
+ },
+ {
+   "word": "hierdoor",
+   "translation": "because of this"
+ },
+ {
+   "word": "hieronder",
+   "translation": "underneath this"
+ },
+ {
+   "word": "hiermee",
+   "translation": "with this"
+ },
+ {
+   "word": "daarop",
+   "translation": "to that, on that, after that"
+ },
+ {
+   "word": "daarnaast",
+   "translation": "besides, furthermore, next to that"
+ },
+ {
+   "word": "daarin",
+   "translation": "in there, therein"
+ },
+ {
+   "word": "daarmee",
+   "translation": "thus, with that"
+ },
+ {
+   "word": "de student",
+   "translation": "student (male)"
+ },
+ {
+   "word": "de studente",
+   "translation": "student (female)"
+ },
+ {
+   "word": "de baan",
+   "translation": "job"
+ },
+ {
+   "word": "de schrijver",
+   "translation": "author, writer (male)"
+ },
+ {
+   "word": "de schrijfster",
+   "translation": "author, writer (female)"
+ },
+ {
+   "word": "de dokter",
+   "translation": "doctor"
+ },
+ {
+   "word": "de werkgever",
+   "translation": "employer"
+ },
+ {
+   "word": "de werknemer",
+   "translation": "employee"
+ },
+ {
+   "word": "de kunstenares",
+   "translation": "artist (female)"
+ },
+ {
+   "word": "de werkster",
+   "translation": "maid, (female) worker"
+ },
+ {
+   "word": "het model",
+   "translation": "model"
+ },
+ {
+   "word": "de carrière",
+   "translation": "career"
+ },
+ {
+   "word": "de kunstenaar",
+   "translation": "artist  (male)"
+ },
+ {
+   "word": "de directeur",
+   "translation": "director, manager"
+ },
+ {
+   "word": "de advocaat",
+   "translation": "lawyer"
+ },
+ {
+   "word": "de rechter",
+   "translation": "judge"
+ },
+ {
+   "word": "het personeel",
+   "translation": "staff"
+ },
+ {
+   "word": "de secretaresse",
+   "translation": "secretary (female)"
+ },
+ {
+   "word": "de burgemeester",
+   "translation": "mayor"
+ },
+ {
+   "word": "de secretaris",
+   "translation": "secretary (male)"
+ },
+ {
+   "word": "de politie",
+   "translation": "the police"
+ },
+ {
+   "word": "de serveerster",
+   "translation": "waitress"
+ },
+ {
+   "word": "de ober",
+   "translation": "waiter"
+ },
+ {
+   "word": "de architect",
+   "translation": "architect"
+ },
+ {
+   "word": "de soldaat",
+   "translation": "soldier"
+ },
+ {
+   "word": "de boer",
+   "translation": "farmer"
+ },
+ {
+   "word": "de baas",
+   "translation": "boss"
+ },
+ {
+   "word": "het beroep",
+   "translation": "profession"
+ },
+ {
+   "word": "de koning",
+   "translation": "king"
+ },
+ {
+   "word": "de kok",
+   "translation": "cook"
+ },
+ {
+   "word": "de acteur",
+   "translation": "actor"
+ },
+ {
+   "word": "de bewaker",
+   "translation": "guard"
+ },
+ {
+   "word": "de kapitein",
+   "translation": "captain"
+ },
+ {
+   "word": "de actrice",
+   "translation": "actress"
+ },
+ {
+   "word": "de ingenieur",
+   "translation": "engineer"
+ },
+ {
+   "word": "de zus",
+   "translation": "sister"
+ },
+ {
+   "word": "de broer",
+   "translation": "brother"
+ },
+ {
+   "word": "de zoon",
+   "translation": "son"
+ },
+ {
+   "word": "de vader",
+   "translation": "father"
+ },
+ {
+   "word": "de dochter",
+   "translation": "daughter"
+ },
+ {
+   "word": "de ouder",
+   "translation": "parent"
+ },
+ {
+   "word": "de moeder",
+   "translation": "mother"
+ },
+ {
+   "word": "de familie",
+   "translation": "family (kin)"
+ },
+ {
+   "word": "de echtgenoot",
+   "translation": "husband"
+ },
+ {
+   "word": "de tante",
+   "translation": "aunt"
+ },
+ {
+   "word": "de oom",
+   "translation": "uncle"
+ },
+ {
+   "word": "de echtgenote",
+   "translation": "wife"
+ },
+ {
+   "word": "het huwelijk",
+   "translation": "marriage"
+ },
+ {
+   "word": "de opa",
+   "translation": "grandpa"
+ },
+ {
+   "word": "de oma",
+   "translation": "grandma"
+ },
+ {
+   "word": "de ma",
+   "translation": "mom"
+ },
+ {
+   "word": "de pa",
+   "translation": "dad"
+ },
+ {
+   "word": "de grootvader",
+   "translation": "grandfather"
+ },
+ {
+   "word": "de grootmoeder",
+   "translation": "grandmother"
+ },
+ {
+   "word": "grootouders",
+   "translation": "grandparents"
+ },
+ {
+   "word": "openen",
+   "translation": "to open"
+ },
+ {
+   "word": "denken",
+   "translation": "to think"
+ },
+ {
+   "word": "denken aan",
+   "translation": "to think of"
+ },
+ {
+   "word": "veranderen",
+   "translation": "to change, to alter"
+ },
+ {
+   "word": "terugkeren",
+   "translation": "to return"
+ },
+ {
+   "word": "bellen",
+   "translation": "to call (by phone), to ring"
+ },
+ {
+   "word": "redden",
+   "translation": "to save, to rescue"
+ },
+ {
+   "word": "signeren",
+   "translation": "to sign"
+ },
+ {
+   "word": "leven",
+   "translation": "to live (to be alive)"
+ },
+ {
+   "word": "studeren",
+   "translation": "to study"
+ },
+ {
+   "word": "aanbieden",
+   "translation": "to offer"
+ },
+ {
+   "word": "geven",
+   "translation": "to give"
+ },
+ {
+   "word": "weten",
+   "translation": "to know"
+ },
+ {
+   "word": "gebeuren",
+   "translation": "to happen, to occur"
+ },
+ {
+   "word": "proberen",
+   "translation": "to try, to attempt"
+ },
+ {
+   "word": "vragen",
+   "translation": "to ask"
+ },
+ {
+   "word": "presenteren",
+   "translation": "to present, to introduce"
+ },
+ {
+   "word": "praten",
+   "translation": "to talk, to chat"
+ },
+ {
+   "word": "tellen",
+   "translation": "to count"
+ },
+ {
+   "word": "zoeken",
+   "translation": "to seek, to search for"
+ },
+ {
+   "word": "verzamelen",
+   "translation": "to collect, to gather"
+ },
+ {
+   "word": "markeren",
+   "translation": "to mark (with a highlighter)"
+ },
+ {
+   "word": "maken",
+   "translation": "to make"
+ },
+ {
+   "word": "stoppen",
+   "translation": "to stop"
+ },
+ {
+   "word": "wensen",
+   "translation": "to wish"
+ },
+ {
+   "word": "stellen",
+   "translation": "to set, to place, to pose (a question)"
+ },
+ {
+   "word": "wachten",
+   "translation": "to wait"
+ },
+ {
+   "word": "hopen",
+   "translation": "to hope"
+ },
+ {
+   "word": "geloven",
+   "translation": "to believe"
+ },
+ {
+   "word": "vinden",
+   "translation": "to find"
+ },
+ {
+   "word": "leuk",
+   "translation": "cool, funny, nice"
+ },
+ {
+   "word": "leuk vinden",
+   "translation": "to like"
+ },
+ {
+   "word": "herkennen",
+   "translation": "to recognize, to identify"
+ },
+ {
+   "word": "leren",
+   "translation": "to learn"
+ },
+ {
+   "word": "volgen",
+   "translation": "to follow"
+ },
+ {
+   "word": "brengen",
+   "translation": "to bring"
+ },
+ {
+   "word": "lijken",
+   "translation": "to seem, to appear"
+ },
+ {
+   "word": "blijven",
+   "translation": "to stay, to remain, to keep"
+ },
+ {
+   "word": "verkopen",
+   "translation": "to sell"
+ },
+ {
+   "word": "bedanken",
+   "translation": "to thank"
+ },
+ {
+   "word": "rusten",
+   "translation": "to rest"
+ },
+ {
+   "word": "eindigen",
+   "translation": "to end"
+ },
+ {
+   "word": "antwoorden",
+   "translation": "to answer"
+ },
+ {
+   "word": "beginnen",
+   "translation": "to start, to begin"
+ },
+ {
+   "word": "kosten",
+   "translation": "to cost"
+ },
+ {
+   "word": "kijken (naar)",
+   "translation": "to look at, to watch"
+ },
+ {
+   "word": "zingen",
+   "translation": "to sing"
+ },
+ {
+   "word": "vertrouwen",
+   "translation": "to trust"
+ },
+ {
+   "word": "kopen",
+   "translation": "to buy"
+ },
+ {
+   "word": "bestellen",
+   "translation": "to order (food, e.g.)"
+ },
+ {
+   "word": "ontmoeten",
+   "translation": "to meet (up)"
+ },
+ {
+   "word": "worden",
+   "translation": "to become"
+ },
+ {
+   "word": "de hand",
+   "translation": "hand"
+ },
+ {
+   "word": "het oog",
+   "translation": "eye"
+ },
+ {
+   "word": "de gezondheid",
+   "translation": "health"
+ },
+ {
+   "word": "zorgen voor",
+   "translation": "to take care of"
+ },
+ {
+   "word": "het lichaam",
+   "translation": "body"
+ },
+ {
+   "word": "het hoofd",
+   "translation": "head"
+ },
+ {
+   "word": "gezond",
+   "translation": "healthy"
+ },
+ {
+   "word": "ziek",
+   "translation": "sick, ill"
+ },
+ {
+   "word": "de zorg",
+   "translation": "care, healthcare"
+ },
+ {
+   "word": "de hulp",
+   "translation": "help"
+ },
+ {
+   "word": "het gezicht",
+   "translation": "face"
+ },
+ {
+   "word": "het noodgeval",
+   "translation": "emergency"
+ },
+ {
+   "word": "de behandeling",
+   "translation": "treatment, handling"
+ },
+ {
+   "word": "het hart",
+   "translation": "heart"
+ },
+ {
+   "word": "het medicijn",
+   "translation": "medicine"
+ },
+ {
+   "word": "het bloed",
+   "translation": "blood"
+ },
+ {
+   "word": "de koorts",
+   "translation": "fever"
+ },
+ {
+   "word": "de griep",
+   "translation": "flu"
+ },
+ {
+   "word": "het ziekenhuis",
+   "translation": "hospital"
+ },
+ {
+   "word": "de ambulance",
+   "translation": "ambulance"
+ },
+ {
+   "word": "de ziekte",
+   "translation": "illness, sickness, disease"
+ },
+ {
+   "word": "de patiënt",
+   "translation": "patient"
+ },
+ {
+   "word": "de patiënte",
+   "translation": "patient (female)"
+ },
+ {
+   "word": "de operatie",
+   "translation": "operation, surgery"
+ },
+ {
+   "word": "het haar",
+   "translation": "hair"
+ },
+ {
+   "word": "de huid",
+   "translation": "skin"
+ },
+ {
+   "word": "de voet",
+   "translation": "foot"
+ },
+ {
+   "word": "de pijn",
+   "translation": "pain"
+ },
+ {
+   "word": "pijn doen",
+   "translation": "to hurt, to ache"
+ },
+ {
+   "word": "de arts",
+   "translation": "physician, doctor, therapist"
+ },
+ {
+   "word": "het virus",
+   "translation": "virus"
+ },
+ {
+   "word": "het dieet",
+   "translation": "diet"
+ },
+ {
+   "word": "het geneesmiddel",
+   "translation": "medication, remedy, drug"
+ },
+ {
+   "word": "het zicht",
+   "translation": "sight, vision, view"
+ },
+ {
+   "word": "de arm",
+   "translation": "arm"
+ },
+ {
+   "word": "de mond",
+   "translation": "mouth"
+ },
+ {
+   "word": "het been",
+   "translation": "leg"
+ },
+ {
+   "word": "de nek",
+   "translation": "neck"
+ },
+ {
+   "word": "het ongeluk",
+   "translation": "accident"
+ },
+ {
+   "word": "de hersenen",
+   "translation": "brain"
+ },
+ {
+   "word": "de vinger",
+   "translation": "finger"
+ },
+ {
+   "word": "het oor",
+   "translation": "ear"
+ },
+ {
+   "word": "de tand",
+   "translation": "tooth"
+ },
+ {
+   "word": "de tong",
+   "translation": "tongue"
+ },
+ {
+   "word": "de borst",
+   "translation": "chest, breast"
+ },
+ {
+   "word": "de neus",
+   "translation": "nose"
+ },
+ {
+   "word": "de lip",
+   "translation": "lip"
+ },
+ {
+   "word": "de rug",
+   "translation": "back (body part)"
+ },
+ {
+   "word": "de toestand",
+   "translation": "state, condition"
+ },
+ {
+   "word": "de afspraak",
+   "translation": "appointment"
+ },
+ {
+   "word": "de verpleegkundige",
+   "translation": "nurse"
+ },
+ {
+   "word": "nu",
+   "translation": "now"
+ },
+ {
+   "word": "meer",
+   "translation": "more"
+ },
+ {
+   "word": "al",
+   "translation": "already"
+ },
+ {
+   "word": "straks",
+   "translation": "soon, shortly"
+ },
+ {
+   "word": "dan",
+   "translation": "then"
+ },
+ {
+   "word": "nog steeds",
+   "translation": "still, as yet"
+ },
+ {
+   "word": "eens",
+   "translation": "once"
+ },
+ {
+   "word": "wel eens",
+   "translation": "ever"
+ },
+ {
+   "word": "momenteel",
+   "translation": "currently, at the moment"
+ },
+ {
+   "word": "binnenkort",
+   "translation": "soon, before long"
+ },
+ {
+   "word": "onmiddellijk",
+   "translation": "immediately"
+ },
+ {
+   "word": "altijd",
+   "translation": "always"
+ },
+ {
+   "word": "nooit",
+   "translation": "never"
+ },
+ {
+   "word": "soms",
+   "translation": "sometimes"
+ },
+ {
+   "word": "meestal",
+   "translation": "mostly, most of the time"
+ },
+ {
+   "word": "doorgaans",
+   "translation": "usually, generally"
+ },
+ {
+   "word": "vaak",
+   "translation": "frequently, often"
+ },
+ {
+   "word": "normaal gesproken",
+   "translation": "usually, normally (generally speaking)"
+ },
+ {
+   "word": "ver",
+   "translation": "far"
+ },
+ {
+   "word": "de weg",
+   "translation": "road, way, path"
+ },
+ {
+   "word": "ver weg",
+   "translation": "far away"
+ },
+ {
+   "word": "ergens",
+   "translation": "somewhere"
+ },
+ {
+   "word": "overal",
+   "translation": "everywhere, anywhere"
+ },
+ {
+   "word": "nergens",
+   "translation": "nowhere"
+ },
+ {
+   "word": "perfect",
+   "translation": "perfect"
+ },
+ {
+   "word": "volmaakt",
+   "translation": "perfectly"
+ },
+ {
+   "word": "bijna",
+   "translation": "almost"
+ },
+ {
+   "word": "heel",
+   "translation": "whole, wholly, very, quite"
+ },
+ {
+   "word": "echter",
+   "translation": "however"
+ },
+ {
+   "word": "nogal",
+   "translation": "rather, quite, pretty"
+ },
+ {
+   "word": "zeer",
+   "translation": "very"
+ },
+ {
+   "word": "eindelijk",
+   "translation": "finally"
+ },
+ {
+   "word": "helemaal",
+   "translation": "totally, altogether"
+ },
+ {
+   "word": "zelfs",
+   "translation": "even"
+ },
+ {
+   "word": "behoorlijk",
+   "translation": "properly, reasonably, fairly"
+ },
+ {
+   "word": "opnieuw",
+   "translation": "anew, again"
+ },
+ {
+   "word": "toch",
+   "translation": "right?, yet, still, however"
+ },
+ {
+   "word": "gemakkelijk",
+   "translation": "easily"
+ },
+ {
+   "word": "ongeveer",
+   "translation": "approximately, about"
+ },
+ {
+   "word": "mogelijk",
+   "translation": "possibly"
+ },
+ {
+   "word": "precies",
+   "translation": "precisely"
+ },
+ {
+   "word": "duidelijk",
+   "translation": "clearly, obviously"
+ },
+ {
+   "word": "echt",
+   "translation": "really, genuinely"
+ },
+ {
+   "word": "weer",
+   "translation": "again"
+ },
+ {
+   "word": "zo",
+   "translation": "so"
+ },
+ {
+   "word": "noodzakelijk",
+   "translation": "necessarily"
+ },
+ {
+   "word": "zeker",
+   "translation": "certainly, definitely"
+ },
+ {
+   "word": "volstrekt",
+   "translation": "absolutely"
+ },
+ {
+   "word": "voldoende",
+   "translation": "sufficiently"
+ },
+ {
+   "word": "tenminste",
+   "translation": "at least"
+ },
+ {
+   "word": "samen",
+   "translation": "together"
+ },
+ {
+   "word": "eigenlijk",
+   "translation": "actually"
+ },
+ {
+   "word": "het tijdschrift",
+   "translation": "magazine, journal"
+ },
+ {
+   "word": "de fles",
+   "translation": "bottle"
+ },
+ {
+   "word": "de tafel",
+   "translation": "table"
+ },
+ {
+   "word": "de lepel",
+   "translation": "spoon"
+ },
+ {
+   "word": "de kom",
+   "translation": "bowl"
+ },
+ {
+   "word": "de stoel",
+   "translation": "chair"
+ },
+ {
+   "word": "het bed",
+   "translation": "bed"
+ },
+ {
+   "word": "het raam",
+   "translation": "window"
+ },
+ {
+   "word": "de televisie",
+   "translation": "television"
+ },
+ {
+   "word": "de computer",
+   "translation": "computer"
+ },
+ {
+   "word": "de radio",
+   "translation": "radio"
+ },
+ {
+   "word": "uit",
+   "translation": "off"
+ },
+ {
+   "word": "de spiegel",
+   "translation": "mirror"
+ },
+ {
+   "word": "de klok",
+   "translation": "clock"
+ },
+ {
+   "word": "mobiel",
+   "translation": "mobile"
+ },
+ {
+   "word": "de mobiele telefoon",
+   "translation": "cellphone, mobile phone"
+ },
+ {
+   "word": "de bank",
+   "translation": "couch, bench"
+ },
+ {
+   "word": "de lamp",
+   "translation": "lamp"
+ },
+ {
+   "word": "het horloge",
+   "translation": "wrist watch"
+ },
+ {
+   "word": "het bureau",
+   "translation": "desk"
+ },
+ {
+   "word": "de mand",
+   "translation": "basket"
+ },
+ {
+   "word": "de zeep",
+   "translation": "soap"
+ },
+ {
+   "word": "de doos",
+   "translation": "box, case"
+ },
+ {
+   "word": "de deur",
+   "translation": "door"
+ },
+ {
+   "word": "het beeldscherm",
+   "translation": "screen"
+ },
+ {
+   "word": "de portemonnee",
+   "translation": "purse, wallet"
+ },
+ {
+   "word": "het laken",
+   "translation": "bedsheet"
+ },
+ {
+   "word": "de batterij",
+   "translation": "battery"
+ },
+ {
+   "word": "het scheermes",
+   "translation": "razor"
+ },
+ {
+   "word": "de tandpasta",
+   "translation": "toothpaste"
+ },
+ {
+   "word": "de telefoon",
+   "translation": "telephone"
+ },
+ {
+   "word": "de muur",
+   "translation": "wall"
+ },
+ {
+   "word": "de vloer",
+   "translation": "floor"
+ },
+ {
+   "word": "de paraplu",
+   "translation": "umbrella"
+ },
+ {
+   "word": "het wiel",
+   "translation": "wheel"
+ },
+ {
+   "word": "het dak",
+   "translation": "roof"
+ },
+ {
+   "word": "de tas",
+   "translation": "bag, pouch"
+ },
+ {
+   "word": "de sleutel",
+   "translation": "key"
+ },
+ {
+   "word": "het zwembad",
+   "translation": "swimming pool"
+ },
+ {
+   "word": "het ding",
+   "translation": "thing, matter"
+ },
+ {
+   "word": "de kast",
+   "translation": "cupboard, closet, cabinet"
+ },
+ {
+   "word": "de brief",
+   "translation": "letter, note"
+ },
+ {
+   "word": "brieven",
+   "translation": "letters, notes"
+ },
+ {
+   "word": "de bel",
+   "translation": "bell, bubble"
+ },
+ {
+   "word": "de schaar",
+   "translation": "scissors (singular)"
+ },
+ {
+   "word": "het glas",
+   "translation": "glass"
+ },
+ {
+   "word": "de pan",
+   "translation": "pan (saucepan, frying pan)"
+ },
+ {
+   "word": "het papier",
+   "translation": "paper"
+ },
+ {
+   "word": "de beker",
+   "translation": "cup, mug"
+ },
+ {
+   "word": "de motor",
+   "translation": "engine, motorcycle"
+ },
+ {
+   "word": "het voorwerp",
+   "translation": "thing, object"
+ },
+ {
+   "word": "de machine",
+   "translation": "machine"
+ },
+ {
+   "word": "het stuk",
+   "translation": "piece"
+ },
+ {
+   "word": "het blad",
+   "translation": "sheet, leaf, magazine"
+ },
+ {
+   "word": "bladeren",
+   "translation": "leaves, sheets, magazines"
+ },
+ {
+   "word": "het potlood",
+   "translation": "pencil"
+ },
+ {
+   "word": "de wortel",
+   "translation": "root, carrot"
+ },
+ {
+   "word": "de ketting",
+   "translation": "chain, necklace"
+ },
+ {
+   "word": "de spons",
+   "translation": "sponge"
+ },
+ {
+   "word": "sponzen",
+   "translation": "sponges"
+ },
+ {
+   "word": "de roman",
+   "translation": "novel"
+ },
+ {
+   "word": "de poedersuiker",
+   "translation": "powdered sugar"
+ },
+ {
+   "word": "het poeder, de poeder",
+   "translation": "powder"
+ },
+ {
+   "word": "de kam",
+   "translation": "comb"
+ },
+ {
+   "word": "het mes",
+   "translation": "knife"
+ },
+ {
+   "word": "de vork",
+   "translation": "fork"
+ },
+ {
+   "word": "de tandenborstel",
+   "translation": "toothbrush"
+ },
+ {
+   "word": "beloven",
+   "translation": "to promise"
+ },
+ {
+   "word": "aanmoedigen",
+   "translation": "to encourage"
+ },
+ {
+   "word": "bevelen",
+   "translation": "to order, to command"
+ },
+ {
+   "word": "verlangen ernaar",
+   "translation": "to yearn for, to long for"
+ },
+ {
+   "word": "verzoeken",
+   "translation": "to request, to ask"
+ },
+ {
+   "word": "streven ernaar",
+   "translation": "to aim, to strive after"
+ },
+ {
+   "word": "dwingen",
+   "translation": "to force, to coerce"
+ },
+ {
+   "word": "weggaan",
+   "translation": "to go away, to take off"
+ },
+ {
+   "word": "durven",
+   "translation": "to dare"
+ },
+ {
+   "word": "beweren",
+   "translation": "to claim, to assert"
+ },
+ {
+   "word": "blijken",
+   "translation": "to turn out to be, to appear"
+ },
+ {
+   "word": "inzien",
+   "translation": "to look through, to glance over, to comprehend"
+ },
+ {
+   "word": "vallen",
+   "translation": "to fall"
+ },
+ {
+   "word": "deze",
+   "translation": "this (de-nouns); these"
+ },
+ {
+   "word": "die",
+   "translation": "that (de-nouns); those"
+ },
+ {
+   "word": "dit",
+   "translation": "this (het-nouns)"
+ },
+ {
+   "word": "dat",
+   "translation": "that (het-nouns)"
+ },
+ {
+   "word": "zulk",
+   "translation": "such (uncountable het-nouns)"
+ },
+ {
+   "word": "zulke",
+   "translation": "such (uncountable de-nouns; plural)"
+ },
+ {
+   "word": "zo'n",
+   "translation": "such a"
+ },
+ {
+   "word": "zoiets",
+   "translation": "something like that, such a thing"
+ },
+ {
+   "word": "dezelfde",
+   "translation": "the same (de-nouns; plural)"
+ },
+ {
+   "word": "hetzelfde",
+   "translation": "the same (het-nouns)"
+ },
+ {
+   "word": "andere",
+   "translation": "other, another, different"
+ },
+ {
+   "word": "anderen",
+   "translation": "others"
+ },
+ {
+   "word": "beide",
+   "translation": "both"
+ },
+ {
+   "word": "beiden",
+   "translation": "both (of them)"
+ },
+ {
+   "word": "niks",
+   "translation": "nothing (not \"niets\")"
+ },
+ {
+   "word": "geen enkel",
+   "translation": "not a single, not any"
+ },
+ {
+   "word": "degene die, diegene die",
+   "translation": "the one who"
+ },
+ {
+   "word": "lees",
+   "translation": "read! (imperative)"
+ },
+ {
+   "word": "wees",
+   "translation": "be! (imperative)"
+ },
+ {
+   "word": "de wees",
+   "translation": "orphan"
+ },
+ {
+   "word": "kom",
+   "translation": "come! (imperative)"
+ },
+ {
+   "word": "opruimen",
+   "translation": "to tidy up, to clean up"
+ },
+ {
+   "word": "ruim ... op",
+   "translation": "tidy up! clean up! (imperative)"
+ },
+ {
+   "word": "ruim",
+   "translation": "spacious, capacious, roomy"
+ },
+ {
+   "word": "blijf",
+   "translation": "stay! (imperative)"
+ },
+ {
+   "word": "laten",
+   "translation": "to let, to leave"
+ },
+ {
+   "word": "laten we",
+   "translation": "let's (+infinitive)"
+ },
+ {
+   "word": "dansen",
+   "translation": "to dance"
+ },
+ {
+   "word": "meezingen",
+   "translation": "to sing along"
+ },
+ {
+   "word": "ga",
+   "translation": "go! (imperative)"
+ },
+ {
+   "word": "zing",
+   "translation": "sing! (imperative)"
+ },
+ {
+   "word": "dans",
+   "translation": "dance! (imperative)"
+ },
+ {
+   "word": "roken",
+   "translation": "to smoke"
+ },
+ {
+   "word": "niet roken",
+   "translation": "don't smoke, no smoking"
+ },
+ {
+   "word": "ren",
+   "translation": "run! (imperative)"
+ },
+ {
+   "word": "niet doen!",
+   "translation": "don't! don't do it! (imperative)"
+ },
+ {
+   "word": "wegrennen",
+   "translation": "to run away"
+ },
+ {
+   "word": "niet rennen",
+   "translation": "don't run, no running"
+ },
+ {
+   "word": "kunnen",
+   "translation": "can, to be able to"
+ },
+ {
+   "word": "hoeven",
+   "translation": "to be in need of, to need to (negative sentences)"
+ },
+ {
+   "word": "moeten",
+   "translation": "must, to have to (affirmative sentences)"
+ },
+ {
+   "word": "meegaan",
+   "translation": "to go along, to go with, to accompany"
+ },
+ {
+   "word": "zullen",
+   "translation": "shall, will (infinitive)"
+ },
+ {
+   "word": "mogen",
+   "translation": "may, to be allowed"
+ },
+ {
+   "word": "een keer",
+   "translation": "once, one time"
+ },
+ {
+   "word": "blijven",
+   "translation": "to stay, to remain, to keep"
+ },
+ {
+   "word": "het kopje",
+   "translation": "cup (such as coffee cup, not \"beker\")"
+ },
+ {
+   "word": "het telefoontje",
+   "translation": "telephone call"
+ },
+ {
+   "word": "erover",
+   "translation": "about it"
+ },
+ {
+   "word": "het vraagje",
+   "translation": "quick question (diminutive of \"question\")"
+ },
+ {
+   "word": "indoen",
+   "translation": "to put in"
+ },
+ {
+   "word": "het briefje",
+   "translation": "note, banknote, memo"
+ },
+ {
+   "word": "het doosje",
+   "translation": "box, case (diminutive)"
+ },
+ {
+   "word": "het citroentje",
+   "translation": "lemon (diminutive)"
+ },
+ {
+   "word": "het katje",
+   "translation": "kitten, kitty"
+ },
+ {
+   "word": "het belletje",
+   "translation": "small bell, phone call"
+ },
+ {
+   "word": "het raampje",
+   "translation": "window (diminutive)"
+ },
+ {
+   "word": "opendoen",
+   "translation": "to open"
+ },
+ {
+   "word": "het gezin",
+   "translation": "family (household)"
+ },
+ {
+   "word": "het museumpje",
+   "translation": "museum (diminutive)"
+ },
+ {
+   "word": "het mandje",
+   "translation": "basket (diminutive)"
+ },
+ {
+   "word": "het dingetje",
+   "translation": "thing, thingy"
+ },
+ {
+   "word": "het mannetje",
+   "translation": "male animal, small man"
+ },
+ {
+   "word": "het kettinkje",
+   "translation": "chainlet, (thin) necklace"
+ },
+ {
+   "word": "het koninkje",
+   "translation": "king (diminutive)"
+ },
+ {
+   "word": "het biertje",
+   "translation": "beer (countable)"
+ },
+ {
+   "word": "het glaasje",
+   "translation": "glass (diminutive)"
+ },
+ {
+   "word": "het huisje",
+   "translation": "cottage"
+ },
+ {
+   "word": "het omaatje",
+   "translation": "granny, little grandma"
+ },
+ {
+   "word": "het blaadje",
+   "translation": "leaf (diminutive), small sheet of paper"
+ },
+ {
+   "word": "het jongetje",
+   "translation": "little boy (diminutive of \"boy\")"
+ },
+ {
+   "word": "het eitje",
+   "translation": "egg (diminutive)"
+ }
+]

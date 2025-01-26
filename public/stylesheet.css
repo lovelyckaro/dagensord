@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  background-color: #90c0de;
+  height: 100%;
+  margin:0;
+}
+
+.word-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 42;
+  color: #1c7bb7;
+  font-style: bold;
+  height: 100%;
+}
