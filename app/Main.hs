@@ -17,8 +17,7 @@ import Servant.HTML.Blaze
 import System.IO
 import System.Random
 import System.Random.Shuffle
-import Text.Blaze.Html.Renderer.Utf8
-import Text.Blaze.Html5 (Html, ToMarkup, (!))
+import Text.Blaze.Html5 (ToMarkup, (!))
 import Text.Blaze.Html5 qualified as H
 import Text.Blaze.Html5.Attributes qualified as A
 
@@ -39,18 +38,14 @@ instance ToMarkup WordOfTheDay where
         H.p $
           H.toMarkup (T.toTitle word)
 
-wodTemplate :: WordOfTheDay -> Html
-wodTemplate = undefined
-
 exampleWord :: WordOfTheDay
 exampleWord = WordOfTheDay "Hij" "He"
 
 data Status = OK
   deriving (Show, Read, Generic)
 
-instance FromJSON Status
-
-instance ToJSON Status
+instance ToJSON Status where
+  toJSON OK = object [("status", "OK")]
 
 type HealthApi = "health" :> Get '[JSON] Status
 
@@ -71,18 +66,18 @@ serveWod ws = do
   let start = fromGregorian 2025 1 1
   today <- liftIO $ utctDay <$> getCurrentTime
   let diff = diffDays today start
-  case ws !? (fromInteger diff) of
+  case ws !? fromInteger diff of
     Just word -> return word
     Nothing -> return exampleWord
 
 serveApi :: [WordOfTheDay] -> Server Api
-serveApi words = serveHealth :<|> serveWod words :<|> serveDirectoryWebApp "./public"
+serveApi ws = serveHealth :<|> serveWod ws :<|> serveDirectoryWebApp "./public"
 
 main :: IO ()
 main = do
   Just ws <- decode <$> BS.readFile "words.json"
   let seed = mkStdGen 1
   let shuffledWs = shuffle' ws (length ws) seed
-  putStrLn "Serving \"Woord van den dag\" on port 80"
+  putStrLn "Serving \"Woord van de dag\" on port 80"
   hFlush stdout
   run 80 $ serve api (serveApi shuffledWs)
